@@ -1,20 +1,162 @@
 [
   {
     "question": "What is your favourite element?",
-    "answers": [{
-      "Earth": "Kyoshi",
-      "Fire": "Roku",
-      "Water": "Kuruk",
-      "Air": "Aang"
-    }]
+    "answers": [
+      {
+        "Earth": "Kyoshi",
+        "Fire": "Azula",
+        "Water": "Katara",
+        "Air": "Aang"
+      }
+    ]
   },
   {
     "question": "You must take only 1 item with you on a desert island. What do you take?",
-    "answers": [{
-      "A Firestarter": "Katara",
-      "A Spear": "Sokka",
-      "A Little Bit of Food": "Cabbage Merchant",
-      "A Sun Hat": "Iroh"
-    }]
+    "answers": [
+      {
+        "A Firestarter": "Katara",
+        "A Spear": "Sokka",
+        "A Little Bit of Food": "Cabbage Merchant",
+        "A Sun Hat": "Iroh"
+      }
+    ]
+  },
+  {
+    "question": "Of these, who is your favourite character from Avatar: The Last Airbender?",
+    "answers": [
+      {
+        "Aang": "Foaming Mouth Guy",
+        "Katara": "Aang",
+        "Sokka": "Ty Lee",
+        "Toph": "Toph",
+        "Zuko": "Mai",
+        "Azula": "Azula"
+      }
+    ]
+  },
+  {
+    "question": "Have you ever unironically said \"That's Rough Buddy\" to someone?",
+    "answers": [
+      {
+        "Yes": "Zuko",
+        "No": "Sokka"
+      }
+    ]
+  },
+  {
+    "question": "Do you know the entire opening sequence off by heart?",
+    "answers": [
+      {
+        "Yes": "Foaming Mouth Guy",
+        "No": "Aang"
+      }
+    ]
+  },
+  {
+    "question": "What is your favourite non-standard form of bending?",
+    "answers": [
+      {
+        "Blood Bending": "Azula",
+        "Lava Bending": "Kyoshi",
+        "Lightning Bending": "Zuko",
+        "Energy Bending": "Aang",
+        "Healing": "Katara",
+        "Metal Bending": "Toph",
+        "Combustion Bending": "Ty Lee",
+        "Lightning Redirection": "Iroh"
+      }
+    ]
+  },
+  {
+    "question": "Who is your favourite character from Legend of Korra?",
+    "answers": [
+      {
+        "Mako": "Zuko",
+        "Bolin": "Sokka",
+        "Korra": "Kyoshi",
+        "Asami": "Ty Lee",
+        "Pabu": "Foaming Mouth Guy"
+      }
+    ]
+  },
+  {
+    "question": "Which character from the Gaang do you thing represents you the most?",
+    "answers": [
+      {
+        "Zuko": "Zuko",
+        "Aang": "Aang",
+        "Katara": "Katara",
+        "Sokka": "Sokka",
+        "Toph": "Toph",
+        "Appa": "Foaming Mouth Guy",
+        "Momo": "Cabbage Merchant"
+      }
+    ]
+  },
+  {
+    "question": "Where do we first see the Cabbage Merchant?",
+    "answers": [
+      {
+        "Kyoshi Island": "Foaming Mouth Guy",
+        "Omashu": "Cabbage Merchant",
+        "Ba Sing Se": "Toph",
+        "Waterbending Scroll (Merchant Pier)": "Iroh"
+      }
+    ]
+  },
+  {
+    "question": "How many times does Iroh play the Tsungi Horn?",
+    "answers": [
+      {
+        "1": "Katara",
+        "2": "Iroh",
+        "3": "Zuko",
+        "4": "Mai"
+      }
+    ]
+  },
+  {
+    "question": "What kind of diet do you eat?",
+    "answers": [
+      {
+        "Vegetarian": "Aang",
+        "Vegan": "Cabbage Merchant",
+        "Omni": "Iroh",
+        "Meat": "Sokka"
+      }
+    ]
+  },
+  {
+    "question": "What kind of animal is Korra's companian?",
+    "answers": [
+      {
+        "Polar Dog": "Katara",
+        "Polar Bear Dog": "Foaming Mouth Guy",
+        "Polar Leopard Dog": "Cabbage Merchant",
+        "Snow Leopard Dog": "Azula"
+      }
+    ]
+  },
+  {
+    "question": "What happened to Zuko's Mother?",
+    "answers": [
+      {
+        "Banished for killing Azulon": "Azula",
+        "Banished after trading places with Zuko": "Mai",
+        "Banished for trying to safe Zuko": "Ty Lee"
+      }
+    ]
+  },
+  {
+    "question": "Pick a random character!",
+    "answers": [
+      {
+        "Kyoshi": "Kyoshi",
+        "Cabbage Merchant": "Cabbage Merchant",
+        "Azula": "Azula",
+        "Mai": "Mai",
+        "Ty Lee": "Ty Lee"
+      }
+    ]
   }
 ]
