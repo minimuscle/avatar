@@ -1,0 +1,20 @@
+[
+  {
+    "question": "What is your favourite element?",
+    "answers": [{
+      "Earth": "Kyoshi",
+      "Fire": "Roku",
+      "Water": "Kuruk",
+      "Air": "Aang"
+    }]
+  },
+  {
+    "question": "You must take only 1 item with you on a desert island. What do you take?",
+    "answers": [{
+      "A Firestarter": "Katara",
+      "A Spear": "Sokka",
+      "A Little Bit of Food": "Cabbage Merchant",
+      "A Sun Hat": "Iroh"
+    }]
+  }
+]

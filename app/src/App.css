@@ -2,7 +2,6 @@
 
 .App {
   background-color: #0c4269;
-  text-align: center;
   width: 100%;
   height: 100vh;
   font-family: 'Baloo 2', cursive;
@@ -16,12 +15,17 @@
   transform: translate(-50%, -50%);
   background-color: #252d4a;
   color: #fff;
-  width: 500px;
   padding: 25px;
   border-radius: 10px;
+  max-width: 600px !important;
 }
 
-button {
+h1 {
+  text-align: center;
+}
+
+
+button.option {
   width: 100%;
   color: #ffffff;
   background-color: #252d4a;
@@ -30,8 +34,30 @@ button {
   align-items: center;
   border: 5px solid #234668;
   cursor: pointer;
+  margin-bottom: 10px;
+}
+
+button.back {
+  width: 75px;
+  color: #ffffff;
+  background-color: #252d4a;
+  border-radius: 15px !important;
+  padding: 5px;
+  margin-bottom: 25px;
+  border: 5px solid #234668;
+  cursor: pointer;
+  text-align: center;
+  float: left;
 }
 
 button:hover {
   background-color: #435185;
+}
+
+h4 {
+  color: #ccc
+}
+
+h4 span {
+  font-size: 60%;
 }
